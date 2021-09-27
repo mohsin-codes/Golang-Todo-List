@@ -32,7 +32,7 @@ A mini project built using Golang as a practice project. I have gained insights 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/mohsink98/Golang-Todo-List.git
 ```
 
 Go to the project directory
