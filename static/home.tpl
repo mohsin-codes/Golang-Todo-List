@@ -63,7 +63,7 @@
         border: 2px solid #e74c3c !important;
       }
       .not-checked{
-        background: # ;
+        background: #2227c7;
         color: #FFF;
         font-weight: bold;
       }
